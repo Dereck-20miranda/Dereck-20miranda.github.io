@@ -19,5 +19,3 @@ Es una pagina web gratuitapara poder crear documentos formales de trabajo a trav
 ## Aplicacion Droidcam
 
 Una aplicacion util para las personas que no pueden pagar una camara para las computadoras, intalando la aplicacion en en el celurar desde la Play Store del celular Android y desde la pagina oficial www.dev47apps.com sin complicaciones. Permite usar las camaras de los celulares Android para usarlas en las computadoras de manera inalambrica con una clave que da la aplicaciones en ambos dispositivos para que se sincronizen y usarlos.  
-
-![Droidcam]({{ site.baseurl }}/images/Droidcam.png)
