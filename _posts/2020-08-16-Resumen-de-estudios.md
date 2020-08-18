@@ -3,4 +3,4 @@ layout: post
 title: Resumen de mis estudios
 ---
 
-Mis primeros años de estudios fue en Duran en la escuela fiscal Jaime Nebot Saadi, después de mudarme a Guayaquil seguí mis estudios básicos en la escuela fiscal Benjamin Rosales Aspiazu, terminé el bachillerato en el colegio Liceo Cristiano de Guayaquil.
+Mis primeros años de estudios fueron en Duran, en la Escuela Fiscal Jaime Nebot Saadi. Después, mi familia y yo nos mudamos a Guayaquil, continué mis estudios básicos en la Escuela Fiscal Benjamín Rosales Aspiazu hasta el decimo de básica; posteriormente, continué y terminé el bachillerato en el colegio Liceo Cristiano de Guayaquil. 
