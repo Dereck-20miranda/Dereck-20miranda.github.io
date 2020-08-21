@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Informacion sobre mi
-permalink: /about/
 ---
 
 ##Breve biografía
